@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Osman</h1>
 <h3 align="center">Im hotel photographer but i don't want to do this job anymore. Because of that im learning Frontend and i wanna be developer.</h3>
 
-- 📫 How to reach me **osman.tnc@hotmail.com**
+- 🌱 I’m currently learning Frontend **Courses**
+
+- 📫 **osman.tnc@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
