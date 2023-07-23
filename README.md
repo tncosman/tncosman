@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Osman</h1>
 <h3 align="center">Im hotel photographer but i don't want to do this job anymore. Because of that im learning Frontend and i wanna be developer.</h3>
 
-- 🌱 I’m currently learning Frontend **Courses**
+<h4 align="center">🌱 I’m currently learning Frontend **Courses**</h4>
 
-- 📫 **osman.tnc@hotmail.com**
+<h4 align="center">📫 **osman.tnc@hotmail.com**</h4>
 
 <h3 align="center"></h3>
 <p align="center">
